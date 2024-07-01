@@ -18,5 +18,7 @@ My name is Andrew Kwon
 
 # Projects
 
-Organic
--https://github.com/ucsb-cs156-s24/proj-organic-s24-5pm-3
+[Organic](https://github.com/ucsb-cs156-s24/proj-organic-s24-5pm-3)
+[XRPianoTutorial](https://github.com/ritvibhatt/AAR)
+[Teleformer](https://github.com/ucsb-cs148-w23/project-t05-telekineticgame)
+[PaperCrane](https://github.com/okay-son/papercrane)
