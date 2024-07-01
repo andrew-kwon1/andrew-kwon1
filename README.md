@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+My name is Andrew Kwon
+
+# Projects
+
+Organic
+-https://github.com/ucsb-cs156-s24/proj-organic-s24-5pm-3
