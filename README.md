@@ -19,9 +19,13 @@ My name is Andrew Kwon (@andrew-kwon1)!
 # Projects
 
 [Organic](https://github.com/ucsb-cs156-s24/proj-organic-s24-5pm-3)
+> Github Web Application
 
 [XRPianoTutorial](https://github.com/ritvibhatt/AAR)
+> Unity Extended Reality Project
 
 [Teleformer](https://github.com/ucsb-cs148-w23/project-t05-telekineticgame)
+> Unity 2D Platformer Game
 
 [PaperCrane](https://github.com/okay-son/papercrane)
+> Social Media iOS Application
