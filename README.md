@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-My name is Andrew Kwon
+My name is Andrew Kwon (@andrew-kwon1)!
 
 # Projects
 
